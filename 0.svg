@@ -1,0 +1,14 @@
+<svg id="molecule_icon" viewBox="-350.0 -350.0 700.0 700.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<g id="Na">
+			<circle cx="0" cy="0" r="100.0" fill="#AB5CF2" stroke="#381e50" stroke-width="10.0" />
+			<path d="M70,-70 A90.0,90.0 0, 1, 1 -70,70 M-70,70 A120.0,120.0 0, 0,0 70, -70 Z" fill="#381e50" stroke-width="0" />
+		</g>
+		<g id="Cl">
+			<circle cx="0" cy="0" r="100.0" fill="#1FF01F" stroke="#0a4f0a" stroke-width="10.0" />
+			<path d="M70,-70 A90.0,90.0 0, 1, 1 -70,70 M-70,70 A120.0,120.0 0, 0,0 70, -70 Z" fill="#0a4f0a" stroke-width="0" />
+		</g>
+	</defs>
+	<use href="#Na" xlink:href="#Na" transform="translate(-150.0 -0.0)" />
+	<use href="#Cl" xlink:href="#Cl" transform="translate(150.0 -0.0)" />
+</svg>
